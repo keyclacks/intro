@@ -1,2 +1,2 @@
 # intro
-The brown fox.
+Brown fox.
